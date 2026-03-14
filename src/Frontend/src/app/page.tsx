@@ -166,7 +166,7 @@ export default function HomePage() {
                   }
                 }}
                 placeholder="What do you want the browser to do?"
-                className="flex-1 resize-none overflow-hidden bg-transparent px-3 py-2.5 text-[15px] text-foreground placeholder:text-muted-foreground/60 transition-[height] duration-200 ease-out focus:outline-none sm:px-4 sm:py-3 sm:text-lg"
+                className="flex-1 resize-none overflow-hidden bg-transparent px-3 py-2.5 text-base text-foreground placeholder:text-muted-foreground/60 transition-[height] duration-200 ease-out focus:outline-none sm:px-4 sm:py-3 sm:text-lg"
                 style={{ maxHeight: "200px" }}
                 disabled={!!modal}
               />
