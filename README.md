@@ -1,6 +1,6 @@
 # browserclaw.org
 
-<p>
+<p align="center">
   <a href="https://browserclaw.org"><img src="https://img.shields.io/badge/Live-browserclaw.org-orange" alt="Live" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/idan-rubin/browserclaw.org/stargazers"><img src="https://img.shields.io/github/stars/idan-rubin/browserclaw.org" alt="GitHub stars" /></a>
