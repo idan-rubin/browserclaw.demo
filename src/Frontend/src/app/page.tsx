@@ -124,7 +124,7 @@ export default function HomePage() {
         </a>
         <div className="flex items-center gap-2 sm:gap-8">
           <div className="hidden sm:flex items-center gap-6 text-sm text-muted-foreground">
-            <a href="https://github.com/idan-rubin/browserclaw.demo" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-foreground">GitHub</a>
+            <a href="https://github.com/idan-rubin/browserclaw.org" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-foreground">GitHub</a>
             <a href="/docs" className="transition-colors hover:text-foreground">Docs</a>
             <a href="https://mrrubin.substack.com" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-foreground">Blog</a>
           </div>
@@ -292,7 +292,7 @@ export default function HomePage() {
             { label: "npm", href: "https://www.npmjs.com/package/browserclaw" },
           ]} />
           <FooterColumn title="Connect" links={[
-            { label: "GitHub", href: "https://github.com/idan-rubin/browserclaw.demo" },
+            { label: "GitHub", href: "https://github.com/idan-rubin/browserclaw.org" },
           ]} />
         </div>
         <div className="mx-auto mt-12 max-w-6xl text-sm text-muted-foreground/40">

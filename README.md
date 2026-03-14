@@ -1,16 +1,23 @@
 # browserclaw.org
 
-AI browser automation playground. Type a prompt, watch AI do it in a real browser, get answers and a reusable skill.
+<p>
+  <a href="https://browserclaw.org"><img src="https://img.shields.io/badge/Live-browserclaw.org-orange" alt="Live" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/idan-rubin/browserclaw.org/stargazers"><img src="https://img.shields.io/github/stars/idan-rubin/browserclaw.org" alt="GitHub stars" /></a>
+  <a href="https://www.npmjs.com/package/browserclaw"><img src="https://img.shields.io/npm/v/browserclaw.svg" alt="browserclaw npm" /></a>
+</p>
 
-**Live:** [browserclaw.org](https://browserclaw.org)
+AI browser automation playground. Type a prompt, watch AI do it in a real browser live, and get a reusable skill.
+
+Unlike search APIs and scraping tools, browserclaw.org drives a real browser — clicking buttons, filling forms, navigating across pages — just like you would. It uses [browserclaw](https://github.com/idan-rubin/browserclaw)'s snapshot + ref engine instead of vision models, using 4x fewer tokens per workflow.
 
 ## Run locally
 
 Requires: Node.js 22+, Chrome installed
 
 ```bash
-git clone https://github.com/idan-rubin/browserclaw.demo.git
-cd browserclaw.demo
+git clone https://github.com/idan-rubin/browserclaw.org.git
+cd browserclaw.org
 ```
 
 ### 1. Browser service
