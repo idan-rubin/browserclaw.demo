@@ -79,4 +79,4 @@ User → Traefik (port 80) → Frontend (Next.js)
 ## Built with
 
 - [BrowserClaw](https://github.com/idan-rubin/browserclaw) — snapshot + ref browser automation engine
-- [OpenClaw]([https://openclaw.ai](https://github.com/openclaw/openclaw)) — the project that inspired it
+- [OpenClaw](https://github.com/openclaw/openclaw) — the project that inspired it
