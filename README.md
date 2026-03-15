@@ -3,8 +3,6 @@
 <p align="center">
   <a href="https://browserclaw.org"><img src="https://img.shields.io/badge/Live-browserclaw.org-orange" alt="Live" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
-  <a href="https://github.com/idan-rubin/browserclaw.org/stargazers"><img src="https://img.shields.io/github/stars/idan-rubin/browserclaw.org" alt="GitHub stars" /></a>
-  <a href="https://www.npmjs.com/package/browserclaw"><img src="https://img.shields.io/npm/v/browserclaw.svg" alt="browserclaw npm" /></a>
 </p>
 
 AI browser automation playground. Type a prompt, watch AI do it in a real browser live, and get a reusable skill.
@@ -80,5 +78,5 @@ User → Traefik (port 80) → Frontend (Next.js)
 
 ## Built with
 
-- [browserclaw](https://github.com/idan-rubin/browserclaw) — snapshot + ref browser automation engine
-- [OpenClaw](https://openclaw.ai) — the project that inspired it
+- [BrowserClaw](https://github.com/idan-rubin/browserclaw) — snapshot + ref browser automation engine
+- [OpenClaw]([https://openclaw.ai](https://github.com/openclaw/openclaw)) — the project that inspired it
